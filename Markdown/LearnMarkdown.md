@@ -16,6 +16,7 @@
 在使用 Markdown 格式书写时，文本内容存储在拓展名为 `.md` 或 `.markdown` 的纯文本文件中。然后通过 *Markdown 解析器* 将获取到的 Markdown 格式的文本输出为 HTML 格式。此时，就可以在 Web 浏览器中查看你的文档，或者将其与样式表组合并打印。你可以在下图看到此过程的直观表示。
 
 ![The Markdown Process](./img/5.png)
+![The Markdown Process](./img/5.png)
 
 至于*Markdown解释器*的实现这里有一个github上的用python写的项目[python-Markdown](https://github.com/Python-Markdown/markdown)（我pull下来了，正在学习，~~以后有机会自己搞一个~~
 
